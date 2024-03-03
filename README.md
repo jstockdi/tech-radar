@@ -29,3 +29,4 @@ First paragraph     # Appear as tooltips / quick view
 
 Second paragraph    # Appears on the details pages
 ```
+
