@@ -11,12 +11,8 @@
             "id": "9dd7d6ed376d2c24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vanta.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vanta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vanta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vanta.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,16 +138,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38577486a288973e",
+  "active": "9dd7d6ed376d2c24",
   "lastOpenFiles": [
-    "Dockerfile",
-    "Whimsical.md",
     "Vanta.md",
-    "Tech Radar.md",
-    "Arcade.md",
-    "Storylane.md",
-    "Product Development/Introduction.md",
-    "whimsical.com.md",
-    "Product Development"
+    "blips/Whimsical.md",
+    "blips/Vanta.md",
+    "blips/Storylane.md",
+    "blips/README.md",
+    "blips/Arcade.md",
+    "README.md",
+    "Whimsical.md",
+    "Tech Radar.md"
   ]
 }

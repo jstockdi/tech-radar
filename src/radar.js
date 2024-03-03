@@ -4,7 +4,7 @@ const marked = require('marked');
 const path = require('path');
 
 
-const markdownDir = './';  
+const markdownDir = './blips';  
 const radarJsonFile = './radar.json';
 
 const markdownFiles = fs.readdirSync(markdownDir)

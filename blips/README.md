@@ -1,9 +1,6 @@
-Welcome to the Tech Radar Repository.   Each radar contains notes on a particular theme.
+Welcome to the Tech Radar Obsidian, which uses the thoughtworks tech radar to render the markdown files.
 
-[Figma Diagram](https://www.figma.com/file/A78p5OBN3AdqfMKmJusvqg/Tech-Radar?type=whiteboard&node-id=0-1&t=WvuQkiUkeqkgHOIP-0) contains a visualization of the properties
-
-
-# Summary
+# Latest Thoughts
 
 In  product development, currently interested in the swing away from Agile dogma / weaponization and tooling to help teams collaborate.
 
@@ -21,6 +18,7 @@ Future proofing (to be turned into a webapp), the blips are in the following for
 ----
  ring:  Adopt, Trial, Assess, Hold
  quadrant:  Techniques, Platforms, Tools, Languages & Frameworks
+ isNew: true, false
 ----
 
 <Title>.md          # Title in blip on the radar
@@ -29,6 +27,16 @@ First paragraph     # Appear as tooltips / quick view
 
 Second paragraph    # Appears on the details pages
 ```
+
+
+# Building json
+
+```
+npm install
+npm run radar
+```
+
+Then push to github and load the [tech radar](https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fraw.githubusercontent.com%2Fjstockdi%2Ftech-radar%2Fmain%2Fradar.json)
 
 
 # Prompt to create radar.js
