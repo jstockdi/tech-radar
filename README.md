@@ -30,3 +30,53 @@ First paragraph     # Appear as tooltips / quick view
 Second paragraph    # Appears on the details pages
 ```
 
+
+# Prompt to create radar.js
+
+```
+Generate a node script that reads a directory for `*.md` files and builds a `radar.json` files
+
+The radar.json file has the following format:
+
+```
+[
+  {
+    "name": "Babel",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Apache Kafka",
+    "ring": "trial",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Android-x86",
+    "ring": "assess",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "GrapCloud lift and shifthQL",
+    "ring": "hold",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "test"
+  }
+]
+
+```
+
+Build each item in the json list from the following:
+
+* "name" - the name of the .md file
+* "ring" - parse from the markdown front-matter
+* "quadrant" - parse from the markdown front-matter
+* "isNew" - parse from the markdown front-matter
+* "description" - Use the markdown text, wrapping each paragraph in "<p>" HTML elements
+```
