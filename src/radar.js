@@ -1,6 +1,8 @@
 const fs = require('fs');
 const matter = require('gray-matter');
+const marked = require('marked');
 const path = require('path');
+
 
 const markdownDir = './';  
 const radarJsonFile = './radar.json';
@@ -19,7 +21,7 @@ markdownFiles.forEach(file => {
 
   const { ring, quadrant, isNew } = data;
 
-  const description = content.split('\n\n').map(paragraph => `<p>${paragraph}</p>`).join('\n');
+  const description = marked.parse(content);
 
   const radarItem = {
     name: path.basename(file, '.md'),
