@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "81ba17adb1f19dfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7bcb469f45812f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dd7d6ed376d2c24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vanta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "390d502a35887c41",
+    "type": "split",
+    "children": [
+      {
+        "id": "448384af71a712da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38577486a288973e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e12aab292983c6eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ded458152794ed2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c91601b2e678afd",
+    "type": "split",
+    "children": [
+      {
+        "id": "805b225bc0a6389b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04cd5962c1688149",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vanta.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5138ecfda192b421",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vanta.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd668638209fd086",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d85996a5a39bbd42",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vanta.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "38577486a288973e",
+  "lastOpenFiles": [
+    "Dockerfile",
+    "Whimsical.md",
+    "Vanta.md",
+    "Tech Radar.md",
+    "Arcade.md",
+    "Storylane.md",
+    "Product Development/Introduction.md",
+    "whimsical.com.md",
+    "Product Development"
+  ]
+}
