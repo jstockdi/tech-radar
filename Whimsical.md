@@ -1,6 +1,6 @@
 ---
-ring: assess
-quadrant: platform
+ring: Assess
+quadrant: Platforms
 ---
 
 [Whismical](https://whimsical.com)  is a SaaS aimed to keep teams aligned by providing collaboration templates and examples.  Designed to be live updated and create discourse/discussion across remote teams and synchronous conversations.

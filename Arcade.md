@@ -1,6 +1,6 @@
 ---
-ring: assess
-quadrant: platform
+ring: Assess
+quadrant: Platforms
 ---
 
 

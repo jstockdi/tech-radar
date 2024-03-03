@@ -19,8 +19,8 @@ Future proofing (to be turned into a webapp), the blips are in the following for
 
 ```
 ----
- ring:  assess, trail, adopt, hold
- quadrant:  platform, technique, tool, framework
+ ring:  Adopt, Trial, Assess, Hold
+ quadrant:  Techniques, Platforms, Tools, Languages & Frameworks
 ----
 
 <Title>.md          # Title in blip on the radar
