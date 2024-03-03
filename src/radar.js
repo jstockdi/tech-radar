@@ -8,7 +8,7 @@ const markdownDir = './blips';
 const radarJsonFile = './radar.json';
 
 const markdownFiles = fs.readdirSync(markdownDir)
-  .filter(file => file.endsWith('.md') && !(file === 'README.md'));
+  .filter(file => file.endsWith('.md'));
 
 
 const radarData = [];
