@@ -3,10 +3,11 @@ const matter = require('gray-matter');
 const path = require('path');
 
 const markdownDir = './';  
-const radarJsonFile = './dist/radar.json';
+const radarJsonFile = './radar.json';
 
 const markdownFiles = fs.readdirSync(markdownDir)
-  .filter(file => file.endsWith('.md'));
+  .filter(file => file.endsWith('.md') && !(file === 'README.md'));
+
 
 const radarData = [];
 
