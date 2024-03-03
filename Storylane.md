@@ -1,6 +1,7 @@
 ---
 ring: Assess
 quadrant: Platforms
+isNew: FALSE
 ---
 
 

@@ -27,7 +27,7 @@ markdownFiles.forEach(file => {
     name: path.basename(file, '.md'),
     ring,
     quadrant,
-    isNew: isNew === 'true', // Convert to boolean
+    isNew: `${isNew}`,
     description,
   };
 

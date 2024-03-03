@@ -3,28 +3,28 @@
     "name": "Arcade",
     "ring": "Assess",
     "quadrant": "Platforms",
-    "isNew": false,
+    "isNew": "false",
     "description": "<p><a href=\"https://arcade.dev/\">Arcade</a> interactive demo platform that allows teams to create demos using SaaS tooling.</p>\n"
   },
   {
     "name": "Storylane",
     "ring": "Assess",
     "quadrant": "Platforms",
-    "isNew": false,
+    "isNew": "false",
     "description": "<p><a href=\"https://www.storylane.io/\">Storylane</a> interactive demo platform that allows teams to create demos using SaaS tooling.</p>\n"
   },
   {
     "name": "Vanta",
     "ring": "Assess",
     "quadrant": "Platforms",
-    "isNew": false,
+    "isNew": "true",
     "description": "<p><a href=\"https://www.vanta.com/\">Vanta</a> is a trust management platform to help automate compliance, streamline security reviews, manage risk and prove security in real time.</p>\n"
   },
   {
     "name": "Whimsical",
     "ring": "Assess",
     "quadrant": "Platforms",
-    "isNew": false,
+    "isNew": "false",
     "description": "<p><a href=\"https://whimsical.com\">Whismical</a>  is a SaaS aimed to keep teams aligned by providing collaboration templates and examples.  Designed to be live updated and create discourse/discussion across remote teams and synchronous conversations.</p>\n<p>It appears interesting as it is trying to become the &quot;IDE&quot; of product teams.  ie, shift from using many different bespoke tools scattered across different technologies/folders and provide good-enough tools together.  By bringing artifacts together, the narrative across roles is more transparent and connected.  ie, designs, business workflows, architecture diagrams are more connected.</p>\n"
   }
 ]
