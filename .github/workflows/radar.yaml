@@ -39,6 +39,6 @@ jobs:
       - run: |
           git config user.name 'GitHub Actions'
           git config user.email 'actions@github.com'
-          git add output.txt
+          git add radar.json
           git commit -m "Automatic commit from workflow"
       - run: git push origin radar-branch
