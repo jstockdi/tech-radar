@@ -36,7 +36,7 @@ jobs:
       - uses: actions/download-artifact@v2
         with:
           name: radar-output
-      - run: git checkout -b commit-branch
+      - run: git checkout -b radar-branch
       - run: |
           git config user.name 'GitHub Actions'
           git config user.email 'actions@github.com'
