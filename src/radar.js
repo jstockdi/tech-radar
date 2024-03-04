@@ -5,7 +5,7 @@ const path = require('path');
 
 
 const markdownDir = './blips';  
-const radarJsonFile = './radar.json';
+const radarJsonFile = './dist/radar.json';
 
 const markdownFiles = fs.readdirSync(markdownDir)
   .filter(file => file.endsWith('.md'));
@@ -34,6 +34,7 @@ markdownFiles.forEach(file => {
   radarData.push(radarItem);
 });
 
+fs.mkdirSync("./dist")
 fs.writeFileSync(radarJsonFile, JSON.stringify(radarData, null, 2));
 
 console.log('Radar JSON file created successfully!');
