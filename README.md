@@ -1,5 +1,8 @@
 Welcome to the Tech Radar Obsidian, which uses the thoughtworks tech radar to render the markdown files.
 
+Access the latest [Tech Radar](https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fjstockdi.github.io%2Ftech-radar%2Fradar.json)
+
+
 # Latest Thoughts
 
 In  product development, currently interested in the swing away from Agile dogma / weaponization and tooling to help teams collaborate.
@@ -31,12 +34,13 @@ Second paragraph    # Appears on the details pages
 
 # Building json
 
+Project reads the markdown files in `blips/` and builds a radar.json.  Github Actions deploys a json file to be used in the tech radar.
+
 ```
 npm install
 npm run radar
 ```
 
-Then push to github and load the [tech radar](https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fraw.githubusercontent.com%2Fjstockdi%2Ftech-radar%2Fmain%2Fradar.json)
 
 
 # Prompt to create radar.js
