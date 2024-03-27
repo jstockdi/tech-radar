@@ -1,76 +1,35 @@
 {
   "main": {
-    "id": "81ba17adb1f19dfd",
+    "id": "d9235ed208e21005",
     "type": "split",
     "children": [
       {
-        "id": "01058b43983cd888",
+        "id": "dee1270b3ce15939",
         "type": "tabs",
         "children": [
           {
-            "id": "3534a18c23d3f457",
+            "id": "8c245942dd8cd4ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trust Management Platform.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b08a24b8b31df8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Presentation Tools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdf0199c7ec322b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Webpage Performance Analysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c666303aaf56b49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MDM.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "390d502a35887c41",
+    "id": "24cb3af25e1e7a8c",
     "type": "split",
     "children": [
       {
-        "id": "448384af71a712da",
+        "id": "11e5c902da841be7",
         "type": "tabs",
         "children": [
           {
-            "id": "38577486a288973e",
+            "id": "0bcac622482401cd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,7 +39,7 @@
             }
           },
           {
-            "id": "e12aab292983c6eb",
+            "id": "d944be18bf192223",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -95,7 +54,7 @@
             }
           },
           {
-            "id": "9ded458152794ed2",
+            "id": "b0ea07a88e892e61",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -109,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "2c91601b2e678afd",
+    "id": "e288400553515e44",
     "type": "split",
     "children": [
       {
-        "id": "805b225bc0a6389b",
+        "id": "e10d74139a21f1b3",
         "type": "tabs",
         "children": [
           {
-            "id": "04cd5962c1688149",
+            "id": "0cf2eae6176fdb39",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MDM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,19 +92,18 @@
             }
           },
           {
-            "id": "5138ecfda192b421",
+            "id": "d2b9b3ca286e8031",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MDM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "cd668638209fd086",
+            "id": "64feab5ca45dad3f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,13 +114,11 @@
             }
           },
           {
-            "id": "d85996a5a39bbd42",
+            "id": "025c82aa182e5bb6",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MDM.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,27 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c666303aaf56b49",
-  "lastOpenFiles": [
-    "Whimsical.md",
-    "Webpage Performance Analysis.md",
-    "Trust Management Platform.md",
-    "Presentation Tools.md",
-    "Storylane.md",
-    "OpenAPI Documentation.md",
-    "No Code UIs.md",
-    "MDM.md",
-    "Co-Pilots.md",
-    "Cloud Business Security Assessments.md",
-    "Backend-as-a-Service.md",
-    "Arcade.md",
-    "No Code UIs",
-    "README.md",
-    "blips/Whimsical.md",
-    "blips/Vanta.md",
-    "blips/Storylane.md",
-    "blips/README.md",
-    "blips/Arcade.md",
-    "Tech Radar.md"
-  ]
+  "active": "8c245942dd8cd4ae",
+  "lastOpenFiles": []
 }
